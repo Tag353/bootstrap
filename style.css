@@ -1,0 +1,67 @@
+body {
+  margin: 0px;
+  background-image: url("doding.jpeg");
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  overflow-x: hidden;
+  overflow-y: hidden;
+  color: white;
+}
+
+h4 {
+  margin-left: 500px;
+}
+
+h1 {
+  padding-top: 0px;
+  margin: 0px;
+  font-size: 100px;
+}
+
+#para {
+  color: #6f42c1;
+}
+
+#top-text {
+  margin-top: 50px;
+}
+
+#foot {
+  background-color: lightgray;
+  height: 50px;
+  width: 2000px;
+}
+
+#largeText {
+  font-size: 75px;
+  margin-left: 500px;
+}
+
+#button {
+  margin-top: 0px;
+  margin-left: 600px;
+  margin-bottom: 50px;
+  background-color: #6f42c1;
+  color: white;
+  font-size: 24px;
+  border-radius: 50px;
+}
+
+.info {
+  color: white;
+  font-size: 20px;
+  margin-left: 500px;
+  margin-top: 0px;
+  margin-bottom: 250px;
+}
+
+.bottomUp {
+  padding-top: 100px;
+  color: white;
+  margin-top: 500px;
+}
+
+.bottom {
+  color: white;
+}/*# sourceMappingURL=style.css.map */
